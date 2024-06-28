@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Week 01/Space X"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
